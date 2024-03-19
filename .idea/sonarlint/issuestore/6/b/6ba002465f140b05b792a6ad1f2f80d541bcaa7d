@@ -1,0 +1,16 @@
+
+php:S103"KSplit this 144 characters long line (which is greater than 120 authorized).(λΆ—£8υέΔε1J$69de5330-5298-44fa-94cc-65bc085af64d
+’php:S103®"KSplit this 215 characters long line (which is greater than 120 authorized).(Β„’©όÿÿÿÿ8υέΔε1J$45b38c19-65a1-453b-bfa3-2757e772ca36
+php:S103―"KSplit this 214 characters long line (which is greater than 120 authorized).(ιιΔΝ8υέΔε1J$e9fe6d76-66b5-47a5-b712-9f87b7f019d5
+’php:S103°"KSplit this 139 characters long line (which is greater than 120 authorized).(ν¶¤Βόÿÿÿÿ8υέΔε1J$8f641b95-e44a-4070-8215-0fabe30f0c01
+php:S103΄"KSplit this 255 characters long line (which is greater than 120 authorized).(½ϋ ε8υέΔε1J$8a42b436-9e35-4ca4-9ec6-52d591860e16
+php:S103µ"KSplit this 180 characters long line (which is greater than 120 authorized).(όΟπ8υέΔε1J$7a4d1625-d0a0-4245-9886-e434ca385fff
+”php:S100"SRename function "FindNegative" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(χ•…¦8φέΔε1J$206da00c-8780-405e-864d-9706ae12ee8d
+£php:S100"cRename function "ConversionFromNumberToString" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(όξ^8φέΔε1J$9010e1c8-9ecc-4c6c-acf0-87c2bf758e07
+™php:S100s"SRename function "PrintRandDiv" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(΄λΩίϊÿÿÿÿ8φέΔε1J$28fb6089-8e61-4a7d-b948-b301999fdb41
+php:S100…"URename function "DisplayProduct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(λΛ’Φϋÿÿÿÿ8φέΔε1J$7f8d9bfe-fd00-4cc1-a25c-2bb9eb536cdf
+΅php:S100’"ZRename function "DisplayProductsCart" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(΅ΠΠύÿÿÿÿ8φέΔε1J$5bd1948b-a448-4890-a9d4-04443e551c06
+`php:S113"'Add a new line at the end of this file.8φέΔε1J$8dd6e3ab-2a8a-4839-8958-df35b306bdb1
+php:S117"\Rename this parameter "$NumbersArray" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(χ•…¦8φέΔε1J$b2a49eb3-3085-42f0-9429-9cde72176a29
+£php:S117"bRename this local variable "$StringToPrint" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ƒµψί8χέΔε1J$ec8e9b9a-baa2-4ff6-9e75-617f11261523
+¨php:S117"bRename this local variable "$StringToPrint" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(†£έϊÿÿÿÿ8χέΔε1J$054aeec1-3d83-4d47-97d4-f2948103b972
